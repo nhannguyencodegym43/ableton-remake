@@ -1,0 +1,26 @@
+.banner-picture img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.banner-picture {
+    position: relative;
+}
+.banner-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    top: 30%;
+    left: 7%;
+}
+.link-header {
+    font-size: 90px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.link-detail {
+    font-size: 30px;
+    font-weight: bold;
+    color: #00ffaf;
+}
