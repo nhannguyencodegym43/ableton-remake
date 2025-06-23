@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    background-color: white;
+    color: #000000;
+}
+.navbar-container .logo {
+    display: flex;
+    align-items: center;
+}
+.navbar-container a {
+    text-decoration: none;
+    color: inherit;
+}
+.nav-links {
+    display: flex;
+    gap: 20px;
+    font: 16px/1.5 "Roboto";
+}
+.logo img {
+    width: 60px;
+    height: 40px;
+    margin-top: 5px;
+}
+.try-login {
+    display: flex;
+    gap: 30px;
+    font: bold 16px/1.5 "Roboto";
+}
+.try-login .try {
+    color: #0000FF;
+    font-size: 18px;
+}
