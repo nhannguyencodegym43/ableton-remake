@@ -1,0 +1,77 @@
+.latest-container {
+    width: 100%;
+    height: auto;
+    padding: 3rem 2rem;
+}
+.latest-header-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    gap: 6rem;
+    padding: 2rem 1rem;
+    position: relative;
+    margin-bottom: 1rem;
+}
+.latest-header {
+    position: absolute;
+    left: 4.7rem;
+}
+.latest-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    height: auto;
+    gap: 1.5rem;
+    position: absolute;
+    left: 34.1rem;
+}
+.latest-links a {
+    text-decoration: none;
+    color: #0000FF;
+    font-size: 18px;
+    font-weight: bold;
+}
+.latest-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    gap: 4.5rem;
+}
+.latest-content img {
+    width: 320px;
+    height: 180px;
+}
+.latest-content-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0.5rem;
+    width: 300px;
+    height: auto;
+}
+.latest-content-card a {
+    text-decoration: none;
+    color: black;
+}
+.latest-content-card h4 {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    min-height: 48px;
+}
+.card-tag {
+    width: 90px;
+    height: auto;
+    text-align: center;
+    padding: 3px;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}

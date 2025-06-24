@@ -6,7 +6,7 @@ function NavBar() {
         <>
             <div className="navbar-container">
                 <div className="logo">
-                    <a href="#home"><img src="../../../../public/home/logo_ableton.PNG" alt="Ableton Remake Logo" /></a>
+                    <a href="#home"><img src="/home/logo_ableton.PNG" alt="Ableton Remake Logo" /></a>
                 </div>
                 <div className="nav-links">
                     <a href="#live">Live</a>

@@ -1,0 +1,31 @@
+{
+  "latests": [
+    {
+      "id": 1,
+      "href": "#lullahush",
+      "src": "https://cdn-resources.ableton.com/resources/filer_thumbnails/misc-downloads/lullahush_1600x800.jpg__1600x800_q85_subsampling-2.jpg",
+      "alt": "Lullahush",
+      "title": "Lullahush: Irish Trad Rewind",
+      "type": "Downloads",
+      "backgroundColor": "#ff8389"
+    },
+    {
+      "id": 2,
+      "href": "#musicforthesea",
+      "src": "https://cdn-resources.ableton.com/resources/filer_thumbnails/misc-downloads/2-coco_moonbeach_bylorenzomelissari_1-portrait.jpg__1600x800_q85_subsampling-2.jpg",
+      "alt": "Music for the sea",
+      "title": "Music for the Sea: Coco Francavilla’s Re-Oceaning Journey",
+      "type": "Downloads",
+      "backgroundColor": "#ff8389"
+    },
+    {
+      "id": 3,
+      "href": "#public_beta",
+      "src": "/home/public_beta.PNG",
+      "alt": "Public Beta",
+      "title": "Get Up to Speed with Move 1.5 – Now in Public Beta",
+      "type": "Videos",
+      "backgroundColor": "#b1c5ff"
+    }
+  ]
+}
