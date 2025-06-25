@@ -1,0 +1,13 @@
+.footer-container {
+    padding: 2rem 7rem;
+    position: relative;
+}
+.footer-container h1 {
+    font-size: 3rem;
+}
+.footer-content {
+    display: flex;
+    flex-direction: row;
+    gap: 4.5rem;
+    flex-wrap: wrap;
+}

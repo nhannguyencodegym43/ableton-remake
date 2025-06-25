@@ -24,10 +24,11 @@ function Learn() {
                 <div className="learn-content">
                     {learn.map((item) => (
                         <div className="learn-content-card">
-                            <a href={item.href}><img src={item.src} alt={item.alt}/></a>
+                            <a href={item.href}><img src={item.src} alt={item.alt}/>
                             <div className="card-tag"
                                  style={{backgroundColor: `${item.backgroundColor}`}}>{item.type}</div>
                             <h4>{item.title}</h4>
+                            </a>
                         </div>
                     ))}
                 </div>
