@@ -1,7 +1,7 @@
 .latest-container {
     width: 100%;
     height: auto;
-    padding: 3rem 2rem;
+    padding: 5rem 2rem;
 }
 .latest-header-links {
     display: flex;
@@ -43,6 +43,7 @@
     width: 100%;
     height: auto;
     gap: 4.5rem;
+    margin-top: 2rem;
 }
 .latest-content img {
     width: 320px;

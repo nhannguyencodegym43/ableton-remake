@@ -12,7 +12,7 @@
     {
       "id": 2,
       "href": "#musicforthesea",
-      "src": "https://cdn-resources.ableton.com/resources/filer_thumbnails/misc-downloads/2-coco_moonbeach_bylorenzomelissari_1-portrait.jpg__1600x800_q85_subsampling-2.jpg",
+      "src": "https://cdn-resources.ableton.com/resources/uploads/zinnia/thumb_MFTS_CocoFrancavilla_Thumbnail.jpg.600x340_q85_crop_upscale.jpg",
       "alt": "Music for the sea",
       "title": "Music for the Sea: Coco Francavilla’s Re-Oceaning Journey",
       "type": "Downloads",
@@ -21,11 +21,69 @@
     {
       "id": 3,
       "href": "#public_beta",
-      "src": "/home/public_beta.PNG",
+      "src": "https://cdn-resources.ableton.com/resources/uploads/zinnia/thumb_503_Low_Heat_Beats_600x340.jpg.600x340_q85_crop_upscale.jpg",
       "alt": "Public Beta",
       "title": "Get Up to Speed with Move 1.5 – Now in Public Beta",
       "type": "Videos",
       "backgroundColor": "#b1c5ff"
+    }
+  ],
+  "focuses" : [
+    {
+      "id": 1,
+      "href": "#flip_sample",
+      "src": "https://ableton-production.imgix.net/uploads/content-clusters/Move_1.3_image.jpeg?auto=format&dpr=1.5&fit=crop&fm=jpg&h=212&ixjsv=1.1.3&q=66&w=376",
+      "alt": "Flip Sample",
+      "title": "Flip Samples from Your Phone with Move’s Latest Update",
+      "type": "Videos",
+      "backgroundColor": "#b1c5ff"
+    },
+    {
+      "id": 2,
+      "href": "#move_questions_answered",
+      "src": "https://ableton-production.imgix.net/uploads/content-clusters/Move_QA.jpg?auto=format&dpr=1.5&fit=crop&fm=jpg&h=212&ixjsv=1.1.3&q=66&w=376",
+      "alt": "Your Move Questions, Answered",
+      "title": "Your Move Questions, Answered",
+      "type": "Videos",
+      "backgroundColor": "#b1c5ff"
+    },
+    {
+      "id": 3,
+      "href": "#beat_breaking",
+      "src": "https://ableton-production.imgix.net/uploads/content-clusters/Side_brain.jpg?auto=format&dpr=1.5&fit=crop&fm=jpg&h=212&ixjsv=1.1.3&q=66&w=376",
+      "alt": "Create a Jungle-Inspired Track on Ableton Move",
+      "title": "Beat Breaking: How to Create a Jungle-Inspired Track on Ableton Move",
+      "type": "Tutorials",
+      "backgroundColor": "#00d2be"
+    }
+  ],
+  "learn": [
+    {
+      "id": 1,
+      "href": "#tips_tricks",
+      "src": "https://ableton-production.imgix.net/uploads/content-clusters/Blog-Live12-2-2.jpg?auto=format&dpr=1.5&fit=crop&fm=jpg&h=212&ixjsv=1.1.3&q=66&w=376",
+      "alt": "Tips and tricks",
+      "title": "Get Tips and Tricks from Our Favorite Creators ›",
+      "type": "News",
+      "backgroundColor": "#d5b3ff"
+    },
+    {
+      "id": 2,
+      "href": "#ableton12_bi-timbral_synth",
+      "src": "https://ableton-production.imgix.net/uploads/content-clusters/meld-1_DSC1794_CROP_800x400px.jpg?auto=format&dpr=1.5&fit=crop&fm=jpg&h=212&ixjsv=1.1.3&q=66&w=376&",
+      "alt": "Live 12’s New Bi-Timbral Synth",
+      "title": "Discover Meld: Live 12’s New Bi-Timbral Synth ›",
+      "type": "News",
+      "backgroundColor": "#d5b3ff"
+    },
+    {
+      "id": 3,
+      "href": "#ableton12_live",
+      "src": "https://ableton-production.imgix.net/uploads/content-clusters/3_Suite_LL12-Midi_Tools_540x250.jpg?auto=format&dpr=1.5&fit=crop&fm=jpg&h=212&ixjsv=1.1.3&q=66&w=376",
+      "alt": "Ableton12 Live",
+      "title": "Watch the Learn Live 12 Videos ›",
+      "type": "Tutorials",
+      "backgroundColor": "#00d2be"
     }
   ]
 }
