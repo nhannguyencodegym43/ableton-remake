@@ -1,0 +1,11 @@
+.locations-selection select, .locations-selection option {
+    font-size: 14px;
+    border: none;
+    padding: 0.3rem;
+    width: 116%;
+    height: 2rem;
+    background-color: #eeeeee;
+}
+.locations-selection {
+    margin-left: 1.6rem;
+}

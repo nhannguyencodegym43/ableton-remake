@@ -20,4 +20,18 @@
     align-items: center;
     justify-content: center;
     font-size: 1.9rem;
+    position: relative;
+    width: 100%;
+}
+.instagram_logo, .tiktok_logo {
+    width: 35px;
+    height: 33px;
+    position: absolute;
+    top: 9px;
+}
+.tiktok_logo {
+    margin-left: 1.7rem;
+}
+.discord_logo {
+    margin-left: 3.3rem;
 }

@@ -1,0 +1,7 @@
+.policy-container {
+    display: flex;
+    flex-direction: row;
+    gap: 8rem;
+    margin-top: 4rem;
+    width: 150%;
+}

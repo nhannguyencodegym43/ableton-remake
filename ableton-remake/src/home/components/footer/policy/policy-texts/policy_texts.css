@@ -1,0 +1,11 @@
+.policy-links {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.policy-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}

@@ -1,5 +1,8 @@
 import React from "react";
 import "./newsletter.css"
+import EmailInput from "./email_input/email_input.jsx";
+import Submit_button from "./submit_button/submit_button.jsx";
+import SubmitButton from "./submit_button/submit_button.jsx";
 function Newsletter() {
     return (
         <>
@@ -8,8 +11,8 @@ function Newsletter() {
                 <p>Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more.</p>
                 <div className="newsletter-form">
                     <form action="#">
-                        <input type="email" placeholder="Email Address" />
-                        <button type="submit">Sign up</button>
+                        <EmailInput />
+                        <SubmitButton />
                     </form>
                 </div>
             </div>

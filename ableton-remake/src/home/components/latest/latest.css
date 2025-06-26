@@ -27,7 +27,7 @@
     height: auto;
     gap: 1.5rem;
     position: absolute;
-    left: 34.7rem;
+    left: 34.3rem;
 }
 .latest-links a {
     text-decoration: none;
@@ -46,7 +46,7 @@
     margin-top: 2rem;
 }
 .latest-content img {
-    width: 320px;
+    width: 310px;
     height: 180px;
 }
 .latest-content-card {

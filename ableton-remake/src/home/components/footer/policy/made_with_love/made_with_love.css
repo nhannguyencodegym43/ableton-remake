@@ -1,0 +1,13 @@
+.made_with_love {
+    display: flex;
+    flex-direction: row;
+    gap: 0.1rem;
+}
+.made_with_love p {
+    font-size: 14px;
+    font-weight: bold;
+}
+.made_with_love img {
+    width: 21px;
+    height: 21px;
+}

@@ -24,17 +24,3 @@
     border: none;
     padding: 0.5rem;
 }
-.newsletter-form input {
-    background-color: #eeeeee;
-    width: 270px;
-}
-.newsletter-form button {
-    color: white;
-    background-color: #0000FF;
-    width: 120px;
-    font-weight: bold;
-}
-.newsletter-form button:hover {
-    background-color: #535bf2;
-    cursor: pointer;
-}

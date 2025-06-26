@@ -1,0 +1,8 @@
+.languages-selection select, .languages-selection option {
+    font-size: 14px;
+    border: none;
+    padding: 0.3rem;
+    width: 119%;
+    height: 2rem;
+    background-color: #eeeeee;
+}
