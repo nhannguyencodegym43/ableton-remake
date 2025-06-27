@@ -9,6 +9,7 @@ import {
     faXTwitter,
     faYoutube
 } from "@fortawesome/free-brands-svg-icons";
+import {Link} from "react-router-dom";
 
 function Social() {
     return (
@@ -16,7 +17,7 @@ function Social() {
             <div className="social-container">
                 <div className="social-text">
                     <a href="#register_push_move"><p>Register Live, Push or Move ></p></a>
-                    <a href="#about"><p>About Ableton ></p></a>
+                    <Link to="/about"><a href="#about"><p>About Ableton ></p></a></Link>
                     <a href="#jobs"><p>Jobs ></p></a>
                 </div>
                 <div className="social-icons">

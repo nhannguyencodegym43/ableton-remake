@@ -1,0 +1,14 @@
+.about-banner-in img {
+    width: 100%;
+    height: 500px;
+}
+.about-banner-in {
+    position: relative;
+}
+.about-banner-in-header {
+    position: absolute;
+    top: 130px;
+    left: 285px;
+    font-size: 130px;
+    color: #ff764d;
+}

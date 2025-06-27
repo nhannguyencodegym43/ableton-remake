@@ -1,0 +1,14 @@
+.intro-text{
+    padding: 7rem 14rem;
+}
+.intro-text-header{
+    font-size: 25px;
+    font-weight: bold;
+}
+.intro-text-header a{
+    text-decoration: none;
+}
+.intro-text-desc{
+    font-size: 20px;
+    margin-top: 21px;
+}

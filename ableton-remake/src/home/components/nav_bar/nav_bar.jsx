@@ -1,12 +1,13 @@
 import "./nav_bar.css"
 import React from 'react';
+import {Link} from "react-router-dom";
 function NavBar() {
 
     return (
         <>
             <div className="navbar-container">
                 <div className="logo">
-                    <a href="#home"><img src="/home/logo_ableton.PNG" alt="Ableton Remake Logo" /></a>
+                    <Link to="/"><a href="#home"><img src="/home/logo_ableton.PNG" alt="Ableton Remake Logo" /></a></Link>
                 </div>
                 <div className="nav-links">
                     <a href="#live">Live</a>
