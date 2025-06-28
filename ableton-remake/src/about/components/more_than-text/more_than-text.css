@@ -1,14 +1,11 @@
-.intro-text-container {
+.more_than-text-container {
     padding: 7rem 14rem;
 }
-.intro-text-header{
+.more_than-text-header{
     font-size: 25px;
     font-weight: bold;
 }
-.intro-text-header a{
-    text-decoration: none;
-}
-.intro-text-desc{
+.more_than-text-desc{
     font-size: 20px;
     margin-top: 21px;
 }

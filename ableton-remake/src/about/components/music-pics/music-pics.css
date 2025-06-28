@@ -1,0 +1,11 @@
+.music-pics-container {
+    padding: 0 14rem;
+}
+.music-pics-container img {
+    width: 100%;
+    height: auto;
+}
+.music-pics-container p {
+    font-size: 1rem;
+    font-style: italic;
+}

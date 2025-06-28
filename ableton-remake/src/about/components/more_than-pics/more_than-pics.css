@@ -1,15 +1,15 @@
-.intro-pics-container {
+.more_than-pics-container {
     position: relative;
 }
-.intro-pics-background {
+.more_than-pics-background {
     position: absolute;
-    left: 27rem;
+    left: -6rem;
     width: 746px;
-    height: 746px;
-    background-color: #fbffa7;
+    height: 960px;
+    background-color: #B6FFC0;
     z-index: 2;
 }
-.intro-pics-small img {
+.more_than-pics-small img {
     width: 426px;
     height: 320px;
     z-index: 3;
@@ -17,7 +17,7 @@
     top: 13rem;
     left: 40rem;
 }
-.intro-pics-large img {
+.more_than-pics-large img {
     width: 533px;
     height: 533px;
     z-index: 3;
