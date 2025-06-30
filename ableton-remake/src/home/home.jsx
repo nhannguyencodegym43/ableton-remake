@@ -11,17 +11,19 @@ function Home() {
 
     return (
         <>
-            <header>
-                <nav className="nav-bar"><NavBar/></nav>
-            </header>
-            <main>
-                <div className="banner"><Banner/></div>
-                <div className="latest"><Latest/></div>
-                <div className="focus"><Focus/></div>
-                <div className="learn"><Learn/></div>
-                <div className="more"><More/></div>
-            </main>
-            <footer className="footer"><Footer/></footer>
+            <div className="home-container">
+                <header>
+                    <nav className="nav-bar"><NavBar/></nav>
+                </header>
+                <main>
+                    <div className="banner"><Banner/></div>
+                    <div className="latest"><Latest/></div>
+                    <div className="focus"><Focus/></div>
+                    <div className="learn"><Learn/></div>
+                    <div className="more"><More/></div>
+                </main>
+                <footer className="footer"><Footer/></footer>
+            </div>
         </>
     )
 }

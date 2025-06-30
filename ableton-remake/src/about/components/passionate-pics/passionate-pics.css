@@ -1,0 +1,25 @@
+.passionate-pics-container {
+    position: relative;
+}
+.passionate-pics-background {
+    margin: 0 auto;
+    width: 66.6667vw;
+    height: 58.3333vw;
+    background-color: rgb(213, 179, 255);
+    z-index: 2;
+}
+.passionate-pics-small img {
+    width: 426px;
+    height: 320px;
+    z-index: 3;
+    position: absolute;
+    top: 13rem;
+}
+.passionate-pics-large img {
+    width: 100%;
+    height: 533px;
+    z-index: 3;
+    position: absolute;
+    top: 6.5rem;
+    right: -39.9375rem;
+}

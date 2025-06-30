@@ -9,6 +9,13 @@ import MusicText from "./components/music-text/music-text.jsx";
 import MusicPics from "./components/music-pics/music-pics.jsx";
 import MoreThanText from "./components/more_than-text/more_than-text.jsx";
 import MoreThanPics from "./components/more_than-pics/more_than-pics.jsx";
+import BelieveText from "./components/believe-text/believe-text.jsx";
+import BelievePics from "./components/believe-pics/believe-pics.jsx";
+import PassionateText from "./components/passionate-text/passionate-text.jsx";
+import PassionatePics from "./components/passionate-pics/passionate-pics.jsx";
+import WantText from "./components/want-text/want-text.jsx";
+import WantPics from "./components/want-pics/want-pics.jsx";
+import Footer from "../home/components/footer/footer.jsx";
 function About() {
     return (
         <>
@@ -25,14 +32,15 @@ function About() {
                     <div className="make_music-pics"><MusicPics /></div>
                     <div className="more_than-text"><MoreThanText /></div>
                     <div className="more_than-pics"><MoreThanPics /></div>
-                    <div className="believe-text">believe-text</div>
-                    <div className="believe-pics">believe-pics</div>
-                    <div className="passionate-text">passionate-text</div>
-                    <div className="passionate-pics">passionate-pics</div>
-                    <div className="want-text">want-text</div>
-                    <div className="want-pics">want-pics</div>
+                    <div className="believe-text"><BelieveText /></div>
+                    <div className="believe-pics"><BelievePics /></div>
+                    <div className="passionate-text"><PassionateText /></div>
+                    <div className="passionate-pics"><PassionatePics /></div>
+                    <div className="want-text"><WantText /></div>
+                    <div className="want-pics"><WantPics /></div>
                 </main>
-                <footer className="about_footer">footer</footer>
+                <hr />
+                <footer className="about_footer"><Footer /></footer>
             </div>
         </>
     )

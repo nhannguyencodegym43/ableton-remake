@@ -16,11 +16,18 @@
     position: absolute;
     top: 107px;
 }
+.more_than-pics-small-second img {
+    width: 426px;
+    height: 320px;
+    z-index: 3;
+    position: absolute;
+    top: 534px;
+}
 .more_than-pics-large img {
-    width: 533px;
+    width: 539.5px;
     height: 533px;
     z-index: 3;
     position: absolute;
-    top: 10rem;
-    right: 0;
+    top: 214px;
+    left: 533px;
 }

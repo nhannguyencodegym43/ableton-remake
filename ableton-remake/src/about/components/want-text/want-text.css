@@ -1,0 +1,11 @@
+.want-text-container {
+    padding: 7rem 14rem;
+}
+.want-text-header{
+    font-size: 25px;
+    font-weight: bold;
+}
+.want-text-desc{
+    font-size: 20px;
+    margin-top: 21px;
+}
