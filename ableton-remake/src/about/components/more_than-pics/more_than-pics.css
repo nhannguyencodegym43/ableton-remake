@@ -9,18 +9,18 @@
     background-color: #B6FFC0;
     z-index: 2;
 }
-.more_than-pics-small img {
+.more_than-pics-small-first img {
     width: 426px;
     height: 320px;
     z-index: 3;
     position: absolute;
-    top: 13rem;
-    left: 40rem;
+    top: 107px;
 }
 .more_than-pics-large img {
     width: 533px;
     height: 533px;
     z-index: 3;
     position: absolute;
-    top: 6rem;
+    top: 10rem;
+    right: 0;
 }

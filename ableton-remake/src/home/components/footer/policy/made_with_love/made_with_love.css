@@ -2,6 +2,8 @@
     display: flex;
     flex-direction: row;
     gap: 0.1rem;
+    position: absolute;
+    right: 0;
 }
 .made_with_love p {
     font-size: 14px;
