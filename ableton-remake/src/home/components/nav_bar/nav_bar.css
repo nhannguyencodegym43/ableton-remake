@@ -26,6 +26,9 @@
     display: flex;
     gap: 20px;
 }
+.nav-links a:hover {
+    text-decoration: underline;
+}
 .logo img {
     width: 60px;
     height: 40px;

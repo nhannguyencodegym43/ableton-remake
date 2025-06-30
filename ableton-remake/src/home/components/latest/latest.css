@@ -17,7 +17,7 @@
 }
 .latest-header {
     position: absolute;
-    left: 4rem;
+    left: 3.9rem;
 }
 .latest-links {
     display: flex;
@@ -27,7 +27,7 @@
     height: auto;
     gap: 1.5rem;
     position: absolute;
-    left: 34.3rem;
+    left: 34.5rem;
 }
 .latest-links a {
     text-decoration: none;

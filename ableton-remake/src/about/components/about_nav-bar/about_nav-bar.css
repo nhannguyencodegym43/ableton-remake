@@ -19,6 +19,9 @@
     display: flex;
     gap: 20px;
 }
+.about-nav-links a:hover {
+    text-decoration: underline;
+}
 .about-logo img {
     width: 60px;
     height: 40px;

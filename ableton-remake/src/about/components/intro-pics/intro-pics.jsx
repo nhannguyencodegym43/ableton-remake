@@ -5,8 +5,8 @@ function IntroPics() {
         <>
             <div className="intro-pics-container">
                 <div className="intro-pics-background"></div>
-                <div className="intro-pics-small"><img src="https://ableton-production.imgix.net/about/photo-2.jpg?dpr=1.5&fit=crop&h=143&ixjsv=1.1.3&q=66&w=191" alt="Small intro-pics"/></div>
-                <div className="intro-pics-large"><img src="https://ableton-production.imgix.net/about/photo-1.jpg?dpr=1.5&fit=crop&h=238&ixjsv=1.1.3&q=66&w=238" alt="Large intro-pics"/></div>
+                <div className="intro-pics-small"><img src="https://cdn-resources.ableton.com/resources/filer_thumbnails/misc-downloads/bl_live12_lite_1600x800jpg.jpg__1600x800_q85_subsampling-2.jpg" alt="Small intro-pics"/></div>
+                <div className="intro-pics-large"><img src="https://cdn-resources.ableton.com/resources/filer_thumbnails/unsorted-uploads/f6a5863.jpg__1600x2000_q85_subsampling-2.jpg" alt="Large intro-pics"/></div>
             </div>
         </>
     )
