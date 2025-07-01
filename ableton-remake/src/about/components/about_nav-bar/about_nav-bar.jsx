@@ -1,7 +1,7 @@
 import "./about_nav-bar.css"
 import React from 'react';
 import {Link} from "react-router-dom";
-function AboutNavBar() {
+function AboutNavBar({moreColor = "#ff764d", moreWeight = "bold"}) {
 
     return (
         <>
@@ -18,11 +18,11 @@ function AboutNavBar() {
                     <a href="#shop">Shop</a>
                     <a href="#packs">Packs</a>
                     <a href="#help">Help</a>
-                    <a href="#more" style={{color: "#ff764d", fontWeight: "bold"}}>More +</a>
+                    <a href="#more" style={{color: `${moreColor}`, fontWeight: `${moreWeight}` }}>More +</a>
                 </div>
                 <div className="about-try-login">
                     <a href="#try" className="about-try">Try Live 12 for free</a>
-                    <a href="#login">Log in or register</a>
+                    <Link to="/ableton/login"><a href="#login">Log in or register</a></Link>
                 </div>
             </div>
         </>

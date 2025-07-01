@@ -1,6 +1,7 @@
 import Home from "./home/home.jsx";
 import {Route, Routes} from "react-router-dom";
 import About from "./about/about.jsx";
+import Login from "./login/login.jsx";
 
 function App() {
 
@@ -8,7 +9,8 @@ function App() {
         <>
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/about" element={<About />} />
+                <Route path="/ableton/about" element={<About />} />
+                <Route path="/ableton/login" element={<Login />} />
             </Routes>
         </>
     )

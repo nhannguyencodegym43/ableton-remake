@@ -22,7 +22,7 @@ function NavBar() {
                 </div>
                 <div className="try-login">
                     <a href="#try" className="try">Try Live 12 for free</a>
-                    <a href="#login">Log in or register</a>
+                    <Link to="/ableton/login"><a href="#login">Log in or register</a></Link>
                 </div>
             </div>
         </>

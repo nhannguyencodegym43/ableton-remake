@@ -1,9 +1,9 @@
 import React from "react";
 import "./submit_button.css"
-function SubmitButton() {
+function SubmitButton({buttonTitle = "Sign up"}) {
     return (
         <>
-            <button type="submit">Sign up</button>
+            <button type="submit">{buttonTitle}</button>
         </>
     )
 }

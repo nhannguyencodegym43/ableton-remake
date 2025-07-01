@@ -16,33 +16,35 @@ import PassionatePics from "./components/passionate-pics/passionate-pics.jsx";
 import WantText from "./components/want-text/want-text.jsx";
 import WantPics from "./components/want-pics/want-pics.jsx";
 import Footer from "../home/components/footer/footer.jsx";
+
 function About() {
     return (
         <>
             <div className="about-container">
                 <header>
-                    <nav className="about_nav-bar"><AboutNavBar /></nav>
-                    <nav className="about_nav-bar-2"><ShortNavBar /></nav>
+                    <nav className="about_nav-bar"><AboutNavBar/></nav>
+                    <nav className="about_nav-bar-2"><ShortNavBar/></nav>
                 </header>
                 <main className="about-main">
-                    <div className="about-banner"><AboutBanner /></div>
-                    <div className="intro-text"><IntroText /></div>
-                    <div className="intro-pics"><IntroPics /></div>
-                    <div className="make_music-text"><MusicText /></div>
-                    <div className="make_music-pics"><MusicPics /></div>
-                    <div className="more_than-text"><MoreThanText /></div>
-                    <div className="more_than-pics"><MoreThanPics /></div>
-                    <div className="believe-text"><BelieveText /></div>
-                    <div className="believe-pics"><BelievePics /></div>
-                    <div className="passionate-text"><PassionateText /></div>
-                    <div className="passionate-pics"><PassionatePics /></div>
-                    <div className="want-text"><WantText /></div>
-                    <div className="want-pics"><WantPics /></div>
+                    <div className="about-banner"><AboutBanner/></div>
+                    <div className="intro-text"><IntroText/></div>
+                    <div className="intro-pics"><IntroPics/></div>
+                    <div className="make_music-text"><MusicText/></div>
+                    <div className="make_music-pics"><MusicPics/></div>
+                    <div className="more_than-text"><MoreThanText/></div>
+                    <div className="more_than-pics"><MoreThanPics/></div>
+                    <div className="believe-text"><BelieveText/></div>
+                    <div className="believe-pics"><BelievePics/></div>
+                    <div className="passionate-text"><PassionateText/></div>
+                    <div className="passionate-pics"><PassionatePics/></div>
+                    <div className="want-text"><WantText/></div>
+                    <div className="want-pics"><WantPics/></div>
                 </main>
-                <hr />
-                <footer className="about_footer"><Footer /></footer>
+                <hr/>
+                <footer className="about_footer"><Footer/></footer>
             </div>
         </>
     )
 }
+
 export default About;
