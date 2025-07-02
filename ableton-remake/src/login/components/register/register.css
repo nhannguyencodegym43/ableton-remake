@@ -1,13 +1,13 @@
-.login-form-container h1 {
+.register-container h1 {
     font-size: 55px;
     margin-bottom: 1rem;
 }
-.login-form-desc {
+.register-desc {
     margin: 1rem 0;
 }
-.login-form-desc h3 {
+.register-desc h3 {
     font-size: 20px;
 }
-.login-form-desc p {
+.register-desc p {
     font-size: 17px;
 }

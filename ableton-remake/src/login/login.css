@@ -17,15 +17,15 @@
 .login-form {
     width: 100%;
     height: 514px;
-    background: #00ffaf;
+    /*background: #00ffaf;*/
 }
 .register {
     width: 100%;
     height: 935px;
-    background: #888888;
+    /*background: #888888;*/
 }
 .login-footer {
     width: 100%;
     height: 549px;
-    background: #535bf2;
+    /*background: #535bf2;*/
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import "./login-form.css"
-import {Link} from "react-router-dom";
 import LoginFormContent from "./login-form-content/login-form-content.jsx";
 function LoginForm() {
     return (
