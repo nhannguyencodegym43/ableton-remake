@@ -6,7 +6,7 @@ A modern web application inspired by [Ableton](https://www.ableton.com/), built 
 
 - 🔧 **Modular React Component Structure** — Easy to maintain and scale.
 - 📄 **Multiple Organized Pages** — Includes Home, About, Login, and Register.
-- 🪝 **Custom Hooks** — Abstracted logic for cleaner and reusable code.
+- 🧠 **Custom Hooks** — Abstracted logic for cleaner and reusable code.
 - 🧩 **Reusable UI Components** — Buttons, inputs, and layout components tailored for flexibility.
 - 🖼️ **Asset Management** — Centralized handling of images and icons.
 
