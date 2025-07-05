@@ -16,8 +16,10 @@ import PassionatePics from "./components/passionate-pics/passionate-pics.jsx";
 import WantText from "./components/want-text/want-text.jsx";
 import WantPics from "./components/want-pics/want-pics.jsx";
 import Footer from "../home/components/footer/footer.jsx";
+import useDocumentTitle from "../useDocumentTitle/useDocumentTitle.jsx";
 
 function About() {
+    useDocumentTitle("Learn more about Ableton - maker of Live and Push | Ableton");
     return (
         <>
             <div className="about-container">

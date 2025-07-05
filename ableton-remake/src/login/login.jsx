@@ -4,8 +4,10 @@ import AboutNavBar from "../about/components/about_nav-bar/about_nav-bar.jsx";
 import LoginForm from "./components/login-form/login-form.jsx";
 import Register from "./components/register/register.jsx";
 import Footer from "../home/components/footer/footer.jsx";
+import useDocumentTitle from "../useDocumentTitle/useDocumentTitle.jsx";
 
 function Login() {
+    useDocumentTitle("Log in or create an account | Ableton");
     return (
         <>
             <div className="login-container">

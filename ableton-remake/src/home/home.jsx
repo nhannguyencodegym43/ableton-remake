@@ -6,8 +6,10 @@ import Focus from "./components/focus/focus.jsx";
 import Learn from "./components/learn/learn.jsx";
 import More from "./components/more/more.jsx";
 import Footer from "./components/footer/footer.jsx";
+import useDocumentTitle from "../useDocumentTitle/useDocumentTitle.jsx";
 
 function Home() {
+    useDocumentTitle("Creative tools for music makers | Ableton");
 
     return (
         <>
