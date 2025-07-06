@@ -14,7 +14,7 @@ A modern web application inspired by [Ableton](https://www.ableton.com/), built 
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- JavaScript and CSS Modules
+- JavaScript and CSS
 - React Router
 - Axios library
 - Mock API by JSON Server
